@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://reportdesk.prometteur.in/index.html</loc>
+  <lastmod>2022-05-05T10:21:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://reportdesk.prometteur.in/my-profile.html</loc>
+  <lastmod>2022-05-05T10:21:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://reportdesk.prometteur.in/my-downloads.html</loc>
+  <lastmod>2022-05-05T10:21:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://reportdesk.prometteur.in/about-us.html</loc>
+  <lastmod>2022-05-05T10:21:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://reportdesk.prometteur.in/reports.html</loc>
+  <lastmod>2022-05-05T10:21:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://reportdesk.prometteur.in/contact-us.html</loc>
+  <lastmod>2022-05-05T10:21:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://reportdesk.prometteur.in/report-details.html</loc>
+  <lastmod>2022-05-05T10:21:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://reportdesk.prometteur.in/terms-and-conditions.html</loc>
+  <lastmod>2022-05-05T10:21:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://reportdesk.prometteur.in/disclaimer.html</loc>
+  <lastmod>2022-05-05T10:21:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://reportdesk.prometteur.in/dont-publish-my-report.html</loc>
+  <lastmod>2022-05-05T10:21:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
